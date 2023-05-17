@@ -3,7 +3,7 @@ import './Nav.css'
 
 export const Nav = () => {
   return (
-    <div className="Nav">
+    <div className="nav">
         <p>Home | Login | Support | FAQ </p>
     </div>
   )

@@ -1,8 +1,9 @@
 import React from 'react'
+import './Food.css'
 
 export const Food = () => {
   return (
-    <div>
+    <div className='food'>
         <h3>Food</h3>
         <p>Hamburger... $1.00</p>
         <p>Cheeseburger... $1.00</p>

@@ -1,8 +1,9 @@
 import React from 'react'
+import './Dessert.css'
 
 export const Dessert = () => {
   return (
-    <div>
+    <div className='dessert'>
         <h3>Dessert</h3>
         <p>Chocolate Pie... $1.00</p>
         <p>Apple Pie... $1.00</p>

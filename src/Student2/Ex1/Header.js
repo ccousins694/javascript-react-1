@@ -4,7 +4,7 @@ import './Header.css'
 
 export const Header = () => {
   return (
-    <div>
+    <div className='logo'>
         <p>Dollar Food Store</p>
     </div>
   )

@@ -1,0 +1,10 @@
+.menu{
+    background-color: aqua;
+    height: 92vh;
+}
+
+h1{
+    padding: 10px 0px;
+}
+
+/* pading goes clockwise, top, right, bottom, left (w3schools) */
